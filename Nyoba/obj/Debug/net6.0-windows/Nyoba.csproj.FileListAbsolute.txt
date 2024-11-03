@@ -1,0 +1,38 @@
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\bin\Debug\net6.0-windows\Nyoba.exe
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\bin\Debug\net6.0-windows\Nyoba.deps.json
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\bin\Debug\net6.0-windows\Nyoba.runtimeconfig.json
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\bin\Debug\net6.0-windows\Nyoba.dll
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\bin\Debug\net6.0-windows\Nyoba.pdb
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.csproj.AssemblyReference.cache
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.Form1.resources
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.csproj.GenerateResource.cache
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.AssemblyInfoInputs.cache
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.AssemblyInfo.cs
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.csproj.CoreCompileInputs.cache
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.csproj.CopyComplete
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.dll
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\obj\Debug\net6.0-windows\refint\Nyoba.dll
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.pdb
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.genruntimeconfig.cache
+D:\Praktikum Jaringan Komputer\Nyoba\Nyoba\obj\Debug\net6.0-windows\ref\Nyoba.dll
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\bin\Debug\net6.0-windows\Nyoba.exe
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\bin\Debug\net6.0-windows\Nyoba.deps.json
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\bin\Debug\net6.0-windows\Nyoba.runtimeconfig.json
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\bin\Debug\net6.0-windows\Nyoba.dll
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\bin\Debug\net6.0-windows\Nyoba.pdb
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.Form1.resources
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.csproj.Up2Date
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.dll
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\obj\Debug\net6.0-windows\refint\Nyoba.dll
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.pdb
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\obj\Debug\net6.0-windows\Nyoba.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Unity\Nyoba\Nyoba\obj\Debug\net6.0-windows\ref\Nyoba.dll
